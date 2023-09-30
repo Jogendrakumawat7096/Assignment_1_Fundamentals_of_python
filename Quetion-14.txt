@@ -1,0 +1,16 @@
+Q : What are negative indexes and why are they used?
+Ans:
+    
+# In Python, negative indexes are used to access elements from the end of an array, moving backwards. 
+Negative indexes are more efficient and considered more readable than other indexes.
+
+# Negative Indexing is used to in Python to begin slicing from the end of the string i.e. the last
+
+# Negative indexing is used in Python to manipulate sequence objects such as lists, arrays, and strings. In NumPy,
+ this feature is extended to multi-dimensional arrays
+
+Used: 
+   
+   my_list = ['apple', 'banana', 'cherry', 'orange']
+   
+   print(my_list[-1])   # Output: 'orangeRead'
