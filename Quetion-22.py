@@ -7,7 +7,9 @@ s1=s[0:2]+s[-2:]
 
 print(len(s))
 
-if len(s)>2:    
-    print(s1)
+if len(s)<2: 
+    print("string is empty")   
+    
 else:
-    print("string is empty")
+    print(s1)
+    
