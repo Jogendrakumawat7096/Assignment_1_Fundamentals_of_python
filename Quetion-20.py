@@ -1,8 +1,8 @@
 # Write a Python function that takes a list of words and returns the length of the longest one.
 
 s = ["three", "Jane", "quick", "gandinagar", 'ahmedabad', 'gujrat']
-print("The list is :")
-print(s)
+print("The list is :",s)
+
 
 def longest_length_string(s):
    s_len=len(s[0])
